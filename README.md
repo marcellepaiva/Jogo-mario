@@ -1,2 +1,2 @@
 # https://marcellepaiva.github.io/Jogo_mario/
-Jogo desenvolvido com HTML CSS e Javascript
+Jogo desenvolvido em HTML CSS e Javascript
