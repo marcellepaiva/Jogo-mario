@@ -1,2 +1,2 @@
-# https://marcellepaiva.github.io/Jogo_mario/
+# https://marcellepaiva.github.io/Jogo-mario/
 Jogo desenvolvido em HTML CSS e Javascript
